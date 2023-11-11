@@ -4,8 +4,6 @@ package model;
  * This class represents the logic of a game where a board is updated on each
  * step of the game animation. The board can also be updated by selecting a
  * board cell.
- * 
- * @author Dept of Computer Science, UMCP
  */
 
 public abstract class Game {
