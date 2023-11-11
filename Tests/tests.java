@@ -11,8 +11,7 @@ import model.Game;
 import org.junit.Test;
 
 public class tests {
-	/* We use this string to prevent any hardcoding of results. */
-	/* The submit server uses a different value for TESTS_TAG   */
+	
 	public static final String TESTS_TAG = "\nClearCellGameTest";
 	
 	@Test
